@@ -33,11 +33,10 @@ html, body {
   color:#ccc;
   display:table;
 }
+
 .logo {
   float:left;
 }
-
-
 .banner{
   background-color:#833;
 }
