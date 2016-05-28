@@ -19,4 +19,4 @@
 //     $device.css("width", ui.value + "%");
 //   }
 // });
-TweenMax.to(".logo", 2, {left:600});
+TweenMax.to(".logo", 8, {left:600});
