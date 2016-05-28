@@ -5,6 +5,12 @@ html, body {
   background:#fff;
   overflow:hidden;
 }
+.container {
+  padding-top: 10px;
+}
+.h1 {
+  padding-top: 10px;
+}
 
 .device {
   width:70%;
@@ -39,31 +45,18 @@ html, body {
 .red {
   background-color:#833;
 }
-
-
-
-
-#slider {
-  width:400px;
-  margin:10px auto;
-}
-
-#sliderText {
-  text-align:center;
-}
-
-code {
-  font-size:18px;
-}
-
-.ui-widget-content {
-  background-color:rgba(255, 255, 255, 0.2);
-}
 .logo {
+
   cursor:pointer;
   width:100px;
   height:100px;
-  position:absolute;
+  position:relative;
+  text-align:center;
 
   display:table;
 }
+#test {
+          width: 100px;
+          height:100px;
+          margin: 0px auto;
+       }
