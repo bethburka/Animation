@@ -1,0 +1,61 @@
+html, body {
+  font-family:sans-serif;
+  margin:0;
+  color:#888;
+  background:#2B2C2D;
+  overflow:hidden;
+}
+
+.device {
+  width:70%;
+  height:200px;
+  background-color:#111;
+  position:relative;
+  text-align:center;
+  margin:20px auto;
+  font-size: 1.5em;
+  display: table;
+  border: 1px solid #555;
+}
+
+.device p {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.box {
+  cursor:pointer;
+  width:100%;
+  height:100%;
+  position:absolute;
+  color:#ccc;
+  display:table;
+}
+
+.box code {
+  font-size: 1.3em;
+}
+
+.red {
+  background-color:#833;
+}
+
+
+
+
+#slider {
+  width:400px;
+  margin:10px auto;
+}
+
+#sliderText {
+  text-align:center;
+}
+
+code {
+  font-size:18px;
+}
+
+.ui-widget-content {
+  background-color:rgba(255, 255, 255, 0.2);
+}
