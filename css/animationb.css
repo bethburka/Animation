@@ -9,7 +9,7 @@ html, body {
 
 }
 .design {
-  color:#000;
+
 }
 .container {
   width:70%;
@@ -24,15 +24,19 @@ html, body {
 }
 
 .container h1 {
+
+  font-size: 2em;
+  font-family: league Gothic;
   display: table-cell;
   vertical-align: middle;
 }
 
 .banner {
   cursor:pointer;
-  width:100%;
+  width:96.5%;
   height:100%;
   position:absolute;
+  background-img:
   color:#ccc;
   display:table;
 }
@@ -41,10 +45,9 @@ html, body {
   float:left;
 }
 .banner{
-  background-color:#833;
+  background-color:#7F690B;
   height: 200px;
 }
-
 
 .hovereffect {
   width: 100%;
