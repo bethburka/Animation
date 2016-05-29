@@ -8,5 +8,6 @@ strt.from(".banner", 4, {opacity: 0.3, force3D:true})
 strt.play(5);
 
 // Logo Animation
-TweenMax.from(".logo", 3, {
-  x:300});
+TweenMax.from(".logo", 2.5, {
+  ease:Expo.easeout,
+  x:320});
